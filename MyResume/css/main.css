@@ -90,3 +90,8 @@ background-position: bottom right;
     margin-bottom: 15px;
     text-transform: uppercase;
 }
+.title {
+    font-size: 96px;
+    font-weight:600;
+    text-align: center ;
+}
